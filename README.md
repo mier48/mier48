@@ -28,3 +28,4 @@ En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto-Mier-Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/Alberto-Mier-Fernandez)
+[![Web](https://img.shields.io/badge/Web-albertomier.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.albertomier.com)
