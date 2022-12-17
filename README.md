@@ -22,4 +22,6 @@ En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 <br/>
 [![Python](https://img.shields.io/badge/Python-FFDE57?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+<br/>
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
