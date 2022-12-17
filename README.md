@@ -25,3 +25,6 @@ En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 <br/>
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
+
+## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto-Mier-Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/Alberto-Mier-Fernandez)
