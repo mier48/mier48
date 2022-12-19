@@ -33,4 +33,4 @@ En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como
 <br/>
 
 ##
-[![Mier48's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mier48&locale=es&theme=transparent&text_color=ffffff&layout=compact&custom_title=Estadísticas)]([https://github.com/mier48?tab=repositories](https://github.com/mier48?tab=repositories))
+[![Mier48's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mier48&locale=es&theme=transparent&text_color=ffffff&layout=compact&custom_title=Estadísticas)](https://github.com/mier48?tab=repositories)
