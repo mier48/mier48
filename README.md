@@ -32,5 +32,5 @@ En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como
 [![Web](https://img.shields.io/badge/Web-albertomier.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.albertomier.com)
 <br/>
 
-##
-[![Mier48's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mier48&locale=es&theme=transparent&text_color=ffffff&layout=compact&custom_title=Estadísticas)](https://github.com/mier48?tab=repositories)
+## Estadísticas
+[![Mier48's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mier48&locale=es&theme=github_dark&text_color=ffffff&layout=compact&hide_title=true&hide_border=true&langs_count=10)](https://github.com/mier48?tab=repositories)
