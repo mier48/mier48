@@ -1,9 +1,9 @@
 Hola, mi nombre es Alberto Mier 👋
 ### Full-stack Android & iOS & web developer
 
-Soy desarrollador de software profesional desde hace más de 7 años.
+Soy desarrollador de software profesional desde hace más de 8 años.
 
-En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como en iOS, aunque los últimos años me he estado especializando en desarrollo de Android y los dos últimos años mas concretamente en Kotlin y Jetpack compose
+En 2017 empecé con el desarrollo de aplicaciones móviles tanto en Android como en iOS, aunque los últimos años me he estado especializando en desarrollo de Android y los dos últimos años mas concretamente en Kotlin con Jetpack compose
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
