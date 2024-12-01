@@ -39,7 +39,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-FFDE57?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 
 ---
 
