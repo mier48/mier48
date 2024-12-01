@@ -72,5 +72,3 @@
 - **Aplicaciones móviles:** Desarrollo de aplicaciones robustas para Android e iOS.
 
 ---
-
-Espero que te guste este README actualizado. Resalta tus logros y enfoque profesional de manera clara y atractiva, además de incluir todo lo necesario para que te contacten o conozcan más sobre tu trabajo. 😊
