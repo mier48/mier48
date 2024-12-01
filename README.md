@@ -2,43 +2,59 @@
 
 ## 🚀 CEO & Founder at LTR Digital Solutions
 
-### **Full-Stack Developer Especializado en Android & iOS**
+### **Full-Stack Developer Especializado en Android, iOS y Web**
 
-¡Bienvenido a mi perfil de GitHub! Soy **Alberto**, fundador de **LTR Digital Solutions**, una plataforma innovadora que ofrece soluciones digitales para empresas y autónomos. Con más de 8 años de experiencia en desarrollo de software, me especializo en crear aplicaciones robustas para dispositivos móviles y plataformas web.
+¡Bienvenido a mi perfil de GitHub! Soy **Alberto**, fundador de **LTR Digital Solutions**, una empresa dedicada a ofrecer soluciones tecnológicas innovadoras a autónomos, pequeñas y medianas empresas. Durante mi carrera, he acumulado experiencia en múltiples áreas del desarrollo de software, siempre enfocado en la creación de herramientas tecnológicas que impulsen negocios.
 
 ---
 
 ## 🛠️ **Sobre mí**
 
-- **📌 Emprendedor Tecnológico:** Fundé **LTR Digital Solutions** en 2024, con el objetivo de ayudar a empresas y autónomos a gestionar sus proyectos digitales con herramientas tecnológicas avanzadas.
-- **💻 Desarrollador de Software:** Comencé mi carrera en 2017, especializándome en el desarrollo de aplicaciones móviles para Android e iOS. Actualmente, también enfoco mis esfuerzos en desarrollo web utilizando **Laravel** y **Go**, liderando proyectos estratégicos en mi empresa.
-- **📚 Aprendizaje Continuo:** Estoy en constante evolución, ampliando mis conocimientos técnicos con **Python** y **Rust** para diversificar mis habilidades y ofrecer soluciones innovadoras.
+- **📌 Fundador y CEO de LTR Digital Solutions:** Mi empresa, fundada en 2024, se especializa en:
+  - **SEO**
+  - **Páginas web a medida**
+  - **Desarrollo de software personalizado**
+  - **Automatizaciones con inteligencia artificial**
+  - **Chatbots**
+  - **Aplicaciones móviles**
+- **💻 Creador de LTR Studio:** Una plataforma SaaS que permite a los usuarios crear páginas web de manera sencilla y eficiente, sin necesidad de conocimientos técnicos avanzados.
+- **🎯 Trayectoria profesional:** 
+  - Durante 3 años trabajé intensivamente con **PHP** y **Laravel**, de los cuales el último año combiné este trabajo con desarrollo móvil en **Android** (Java) y **Swift** para iOS.
+  - Otros 3 años los dediqué exclusivamente al desarrollo móvil, especializándome en **Android** con **Java** y **Kotlin**.
+  - En el último año y medio, he diversificado mis habilidades enfocándome en **PHP** con **Laravel**, **Go** y, en menor medida, explorando **Python** y **Rust**.
+- **📚 Aprendizaje Continuo:** Actualmente, estoy ampliando mis habilidades con lenguajes modernos como **Python**, **Rust** y **Go**. También me dedico a explorar:
+  - **IA no-code**
+  - **Ciberseguridad**
+- **🐧 Linux Enthusiast:** Soy un apasionado de **Linux** y actualmente utilizo **Garuda Linux** basado en Arch, aprovechando su versatilidad y personalización.
 
 ---
 
-## 🛠️ **Tecnologías que utilizo**
+## 🛠️ **Habilidades técnicas**
+
+### Lenguajes de programación:
+- **Experto en:** Java, Kotlin, Swift, PHP, Python, Go, Rust, C#
+- **Con experiencia en:** HTML, CSS, JavaScript, Angular (aunque no es de mis favoritos)
 
 ### Desarrollo móvil:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-669C34?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)
-![iOS](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)
+- **Android:** Java, Kotlin, Jetpack Compose
+- **iOS:** Swift, Xcode
 
 ### Desarrollo web:
-![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
-![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
+- **Backend:** PHP (Laravel, Slim), Python (Django)
+- **Frontend:** HTML, CSS, Twig
+- **Bases de datos:** MySQL
 
-### Bases de datos:
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+### Automatización e inteligencia artificial:
+- **Herramientas no-code:** Integración y automatización con plataformas IA.
 
-### Otros lenguajes:
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)
-![Python](https://img.shields.io/badge/Python-FFDE57?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)
+---
+
+## 🔍 **Actualmente enfocado en**
+
+- **Lenguajes modernos:** Profundizando en **Python**, **Rust** y **Go**.
+- **Ciberseguridad:** Explorando estrategias para proteger sistemas y datos.
+- **Inteligencia Artificial no-code:** Implementando soluciones prácticas y accesibles.
+- **Automatización avanzada:** Desarrollando herramientas inteligentes para empresas.
 
 ---
 
@@ -48,3 +64,13 @@
 [![Web](https://img.shields.io/badge/Web-albertomier.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.albertomier.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-@alberto_mier-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/alberto_mier)  
 [![Instagram](https://img.shields.io/badge/Instagram-a.mier48-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/a.mier48)
+
+---
+
+## 💡 **Proyectos destacados**
+- **LTR Studio:** SaaS innovador para la creación de páginas web. Ideal para autónomos y pequeñas empresas.
+- **Aplicaciones móviles:** Desarrollo de aplicaciones robustas para Android e iOS.
+
+---
+
+Espero que te guste este README actualizado. Resalta tus logros y enfoque profesional de manera clara y atractiva, además de incluir todo lo necesario para que te contacten o conozcan más sobre tu trabajo. 😊
